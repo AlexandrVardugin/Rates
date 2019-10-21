@@ -1,0 +1,14 @@
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\Circles.exe.config
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\Circles.exe
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\Circles.pdb
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\EntityFramework.dll
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\EntityFramework.xml
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Exchanges.csprojAssemblyReference.cache
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Exchanges.csproj.CoreCompileInputs.cache
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Exchanges.csproj.CopyComplete
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Circles.exe
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Circles.pdb
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\NLog.dll
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\NLog.xml

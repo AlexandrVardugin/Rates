@@ -1,0 +1,7 @@
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\Circles.exe.config
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\Circles.exe
+C:\Users\shut9\source\repos\Circles\Circles\bin\Debug\Circles.pdb
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Circles.csprojAssemblyReference.cache
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Circles.csproj.CoreCompileInputs.cache
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Circles.exe
+C:\Users\shut9\source\repos\Circles\Circles\obj\Debug\Circles.pdb
